@@ -1,4 +1,4 @@
-# flutter_world_clock
+# Flutter World Clock
 
 Stay Connected, Anytime, Anywhere!
 
